@@ -1,4 +1,4 @@
-# 🧸 Waifu Gallery – Anime Image Fetcher
+# 🧸 Waifu WAllPAPER Gallery – Anime Image Fetcher
 
 A responsive, anime-themed web app that lets users explore and fetch images of their favorite waifus using the [waifu.im API](https://waifu.im). Users can search custom tags or browse popular ones like "maid", "raiden-shogun", and "marin-kitagawa" — all in a smooth, mobile-friendly interface with a sleek anime-inspired UI.
 
